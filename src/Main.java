@@ -3,6 +3,8 @@
 Сулагаев Дмитрий Викторович 01.05.1993 89278182015 m
  */
 
+import View.View;
+
 public class Main {
     public static void main(String[] args) {
             View view = new View();
